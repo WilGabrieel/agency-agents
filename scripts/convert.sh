@@ -1,4 +1,5 @@
-#!/usr/bin/env bash
+./scripts/install.sh
+# Faster (parallel, output order may vary): ./scripts/install.sh --no-interactive --parallel#!/usr/bin/env bash
 #
 # convert.sh — Convert agency agent .md files into tool-specific formats.
 #
